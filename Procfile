@@ -1,0 +1,1 @@
+web: gunicorn MVP_DevelopsToday.wsgi --log-file -
